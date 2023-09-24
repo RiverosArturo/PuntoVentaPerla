@@ -1,0 +1,7 @@
+node_modules
+/renderer/mongo/
+.env
+*.log
+.next
+app
+dist
